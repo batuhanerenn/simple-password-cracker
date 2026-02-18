@@ -1,4 +1,3 @@
-# simple-password-cracker
 # Simple Password Cracker (Brute Force)
 
 This project demonstrates brute force password cracking in C++.
